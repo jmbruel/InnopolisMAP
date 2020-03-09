@@ -4,6 +4,8 @@
 :moodle: https://moodle.innopolis.university/course/view.php?id=414
 :baseURL: https://github.com/jmbruel/InnopolisMAP/blob/master
 :baseMaterial: link:{baseURL}/materials
+:shared: https://docs.google.com/spreadsheets/d/1XSAVB8a0ZljweZB5R3J9F3XvB3o6HyXfqA6mLbDwKRY/edit?usp=sharing
+
 :toc:
 :numbered:
 
@@ -15,7 +17,44 @@ This project is a repository for the teaching materials used in the elective cou
 
 == First venue (February 28/29)
 
+=== Content
+
 - Introduction and organization
+- Sprint 0, choice of projects, organization in groups
+
+=== Assignments
+
+- Every student should fill the lik:{shared}[shared document]
+- Every group should organize its Sprint 0 (topic, team, tools, language, organization)
+
+== Second venue (March 13/14)
+
+=== Content
+
+This venue will mainly assess that every group is on track for the semester-long agile project management that will be graded every venue.
+It will serve as a "rehearsal" for the next venue.
+
+=== Assignments
+
+* For each group: Presentation of their project and Sprint 0 organization (Powerpoint presentation, few slides) 
+** Context / Objectives
+** Team members (e.g., including Product Owner, Scrum Master)
+** Project Repository
+** Management Plateform (if different)
+** Product Backlog
+** Project organization (meetings, tasks decisions, etc.)
+* For each group: Presentation of Sprint 1 (and Sprint 2 if you did 2 sprints in the 2 weeks)
+** Sprint Backlog
+** Issues and tasks
+** Sprint Burdown
+** Test (if any)
+** Documentation (if any)
+** Protoype delivered (MVP) if any
+** Estimated added value and Technical debts
+
+IMPORTANT: The presentations will be on Friday, unless you can only make it on Saturday for your group (send me a message)
+
+
 
 :numbered!:
 == Contact
