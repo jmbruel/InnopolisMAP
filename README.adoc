@@ -52,9 +52,28 @@ It will serve as a "rehearsal" for the next venue.
 ** Protoype delivered (MVP) if any
 ** Estimated added value and Technical debts
 
-IMPORTANT: The presentations will be on Friday, unless you can only make it on Saturday for your group (send me a message)
+IMPORTANT: The presentations will be on Friday afternoon to let you prepare with me the presentations in the morning.
+If you can only make it on Saturday for your group, send me a message in advance.
 
+Here is an example of code you'll have ton include in your README or web site :
 
+.Example of embedded dynamic evaluation chart (in asciidoc)
+[source,asciidoc]
+-----
+image::https://docs.google.com/spreadsheets/d/e/2PACX-1vSHDLY6gFINy8nBgLJb81mLj9IkczivmAyML4zdw_dxAN6vNRxIOuSpkBkKgUA4ixQG_P8MFCwEXwbY/pubchart?oid=821744637&format=image[]
+-----
+
+Which renders as such:
+
+image::https://docs.google.com/spreadsheets/d/e/2PACX-1vSHDLY6gFINy8nBgLJb81mLj9IkczivmAyML4zdw_dxAN6vNRxIOuSpkBkKgUA4ixQG_P8MFCwEXwbY/pubchart?oid=821744637&format=image[]
+
+For those who use markdown: 
+.Example of embedded dynamic evaluation chart (in asciidoc)
+[source,asciidoc]
+-----
+<img  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSHDLY6gFINy8nBgLJb81mLj9IkczivmAyML4zdw_dxAN6vNRxIOuSpkBkKgUA4ixQG_P8MFCwEXwbY/pubchart?oid=821744637&format=image">
+</img>
+-----
 
 :numbered!:
 == Contact
